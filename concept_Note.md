@@ -1,4 +1,4 @@
-# SheLaunch: Digital Business Hub for Women Entrepreneurs
+# EmpowerWeb: Digital Business Hub for Women Entrepreneurs
 
 ## Problem Statement
 Many women entrepreneurs face challenges when trying to establish an online presence. Building a website often requires technical skills or hiring expensive developers, which can be difficult for small-scale or new business owners. This limits their visibility, customer reach, and growth opportunities. Additionally, managing products, content, and analytics can be overwhelming for someone without prior experience.
@@ -8,7 +8,7 @@ We want to solve this problem by creating a simple, adaptive, and intelligent pl
 ---
 
 ## Proposed Solution
-Our solution is **SheLaunch**, a digital business hub that combines ease-of-use, AI recommendations, and essential business tools in one platform.
+Our solution is **EmpowerWeb**, a digital business hub that combines ease-of-use, AI recommendations, and essential business tools in one platform.
 
 **Core features include:**
 - **Pre-built templates:** Users can choose from a variety of professional templates designed for different business types.
@@ -22,9 +22,7 @@ Our solution is **SheLaunch**, a digital business hub that combines ease-of-use,
 3. She customizes the template as needed and publishes her website.
 4. She can monitor analytics and receive suggestions for improvements.
 
-
-
-This approach makes SheLaunch more than a website builder—it is a **smart business assistant** that adapts to each entrepreneur’s needs.
+This approach makes EmpowerWeb more than a website builder—it is a **smart business assistant** that adapts to each entrepreneur’s needs.
 
 ---
 
@@ -56,4 +54,4 @@ This stack allows quick prototyping and ensures the platform can scale as more u
 ---
 
 ## Conclusion
-SheLaunch empowers women entrepreneurs globally by providing a **simple, intelligent, and scalable** platform to launch and manage their businesses online. By reducing barriers to entry and offering adaptive guidance, SheLaunch bridges the gap between ideas and a professional online presence, helping women grow their businesses with confidence.
+EmpowerWeb empowers women entrepreneurs globally by providing a **simple, intelligent, and scalable** platform to launch and manage their businesses online. By reducing barriers to entry and offering adaptive guidance, EmpowerWeb bridges the gap between ideas and a professional online presence, helping women grow their businesses with confidence.
