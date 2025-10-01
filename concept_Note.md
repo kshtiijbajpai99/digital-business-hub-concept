@@ -22,8 +22,7 @@ Our solution is **SheLaunch**, a digital business hub that combines ease-of-use,
 3. She customizes the template as needed and publishes her website.
 4. She can monitor analytics and receive suggestions for improvements.
 
-> **Optional Visual Placeholder:**  
-> `![Wireframe](assets/wireframe.png)`  
+
 
 This approach makes SheLaunch more than a website builder—it is a **smart business assistant** that adapts to each entrepreneur’s needs.
 
@@ -58,6 +57,3 @@ This stack allows quick prototyping and ensures the platform can scale as more u
 
 ## Conclusion
 SheLaunch empowers women entrepreneurs globally by providing a **simple, intelligent, and scalable** platform to launch and manage their businesses online. By reducing barriers to entry and offering adaptive guidance, SheLaunch bridges the gap between ideas and a professional online presence, helping women grow their businesses with confidence.
-
-> **Optional Visual Placeholder:**  
-> `![Analytics Dashboard](assets/analytics.png)`
